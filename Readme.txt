@@ -1,0 +1,1 @@
+Randomizer app generates a random number and puts it in a queue(randomNumberQueue),Prime app should read the number from queue and it should verify whether it is prime number or not and returns the result to another queue(resultQueue). Randomizer app then gets the result from resultQueue and displays it on the console.
